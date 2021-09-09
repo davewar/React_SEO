@@ -1,0 +1,3 @@
+https://testdw.netlify.app/
+https://testdw.netlify.app/login
+https://testdw.netlify.app/shop
